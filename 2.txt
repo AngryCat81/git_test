@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   kraka    1272    1271 pty0     10:38:32 /usr/bin/bash
+   kraka    1386    1272 pty0     11:41:18 /usr/bin/ps
+   kraka    1271       1 ?        10:38:32 /usr/bin/mintty
